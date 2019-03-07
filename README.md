@@ -10,3 +10,6 @@ changes made on new branch are not made to master branch
 test sentence
 
 ## Checkout a branch
+
+
+### Resolving a conflict
