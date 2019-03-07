@@ -4,4 +4,4 @@
 Branching a git project allows you to have a seperate version of the same project so that you can develop without 
 fear of damaging the main project (ie adding new feature)
 
-changes made on new branch are not 
+changes made on new branch are not made to master branch
